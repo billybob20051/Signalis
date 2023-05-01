@@ -140,3 +140,11 @@ font-size: 25px;
     align-items: center;
     justify-content: center;
 }
+
+.interact {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    color: white;
+}
